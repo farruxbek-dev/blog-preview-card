@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Figtree;
+  src: url(../assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: rgb(246,207,80);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Figtree;
+  flex-direction: column;
+}
+p {
+  margin: 0;
+}
